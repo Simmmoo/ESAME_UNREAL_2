@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UNI/3_ANNO/UE_TESLA/ESAME_UNREAL_2/Esame_Unreal_2_SS/Content/Maps/Tesla_Map.umap",
+				"D:/UNI/3_ANNO/UE_TESLA/ESAME_UNREAL_2/Esame_Unreal_2_SS/Content/Blueprints/BP_Tesla.uasset",
+				"D:/UNI/3_ANNO/UE_TESLA/ESAME_UNREAL_2/Esame_Unreal_2_SS/Content/Blueprints/UI/UI_Configuratore.uasset",
 				"C:/Users/studente/Documents/GitHub/ESAME_UNREAL_2/Esame_Unreal_2_SS/Content/Blueprints/BP_Pawn.uasset",
 				"C:/Users/studente/Documents/GitHub/ESAME_UNREAL_2/Esame_Unreal_2_SS/Content/Maps/Tesla_Map.umap",
 				"C:/Users/studente/Documents/GitHub/ESAME_UNREAL_2/Esame_Unreal_2_SS/Content/Blueprints/BP_Tesla.uasset",
