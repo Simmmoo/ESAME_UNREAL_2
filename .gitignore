@@ -75,3 +75,5 @@ Config/steamvr_ue_editor_app.json
 Config/SteamVRBindings
 Platforms/HoloLens/Config/HoloLensEngine.ini
 .vsconfig
+*.log
+Esame_Unreal_2_SS/Saved/Logs/Esame_Unreal_2_SS.log
