@@ -1,6 +1,31 @@
-2026/04/16-18:33:43.795 6018 Reusing MANIFEST C:/Users/studente/Desktop/NANNINI/ESAME_UNREAL_2/Esame_Unreal_2_SS/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/16-18:33:43.795 6018 Recovering log #4
-2026/04/16-18:33:43.796 6018 Reusing old log C:/Users/studente/Desktop/NANNINI/ESAME_UNREAL_2/Esame_Unreal_2_SS/Saved/webcache_4430\Local Storage\leveldb/000004.log 
-2026/04/16-18:34:45.522 6018 Level-0 table #8: started
-2026/04/16-18:34:45.526 6018 Level-0 table #8: 63089 bytes OK
-2026/04/16-18:34:45.528 6018 Delete type=0 #4
+2026/07/04-23:08:24.492 30b8 Reusing MANIFEST D:/UNI/3_ANNO/UE_TESLA/ESAME_UNREAL_2/Esame_Unreal_2_SS/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/07/04-23:08:24.594 30b8 Recovering log #3
+2026/07/04-23:08:24.637 30b8 Level-0 table #3: started
+2026/07/04-23:08:24.787 30b8 Level-0 table #3: 63655 bytes OK
+2026/07/04-23:08:24.838 30b8 Delete type=0 #3
+2026/07/04-23:18:20.074 5d0 Level-0 table #6: started
+2026/07/04-23:18:20.134 5d0 Level-0 table #6: 70181 bytes OK
+2026/07/04-23:18:20.162 5d0 Delete type=0 #4
+2026/07/04-23:20:13.329 3c10 Level-0 table #8: started
+2026/07/04-23:20:13.378 3c10 Level-0 table #8: 67274 bytes OK
+2026/07/04-23:20:13.409 3c10 Delete type=0 #5
+2026/07/04-23:23:01.871 417c Level-0 table #10: started
+2026/07/04-23:23:01.935 417c Level-0 table #10: 69926 bytes OK
+2026/07/04-23:23:01.959 417c Delete type=0 #7
+2026/07/04-23:23:01.971 417c Compacting 4@0 + 0@1 files
+2026/07/04-23:23:02.019 417c Generated table #11@0: 3 keys, 17864 bytes
+2026/07/04-23:23:02.019 417c Compacted 4@0 + 0@1 files => 17864 bytes
+2026/07/04-23:23:02.050 417c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/07/04-23:23:02.051 417c Delete type=2 #3
+2026/07/04-23:23:02.051 417c Delete type=2 #6
+2026/07/04-23:23:02.051 417c Delete type=2 #8
+2026/07/04-23:23:02.051 417c Delete type=2 #10
+2026/07/04-23:26:31.581 4404 Level-0 table #13: started
+2026/07/04-23:26:31.630 4404 Level-0 table #13: 79302 bytes OK
+2026/07/04-23:26:31.654 4404 Delete type=0 #9
+2026/07/04-23:34:05.121 46a8 Level-0 table #15: started
+2026/07/04-23:34:05.160 46a8 Level-0 table #15: 67634 bytes OK
+2026/07/04-23:34:05.186 46a8 Delete type=0 #12
+2026/07/04-23:35:01.418 4404 Level-0 table #17: started
+2026/07/04-23:35:01.469 4404 Level-0 table #17: 70747 bytes OK
+2026/07/04-23:35:01.498 4404 Delete type=0 #14
