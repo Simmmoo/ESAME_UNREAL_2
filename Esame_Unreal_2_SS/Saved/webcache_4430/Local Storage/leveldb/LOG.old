@@ -1,2 +1,24 @@
-2026/07/04-10:09:55.021 118c Creating DB D:/UNI/3_ANNO/UE_TESLA/ESAME_UNREAL_2/Esame_Unreal_2_SS/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/07/04-10:09:55.214 118c Reusing MANIFEST D:/UNI/3_ANNO/UE_TESLA/ESAME_UNREAL_2/Esame_Unreal_2_SS/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/07/05-15:56:14.914 3340 Reusing MANIFEST D:/UNI/3_ANNO/UE_TESLA/ESAME_UNREAL_2/Esame_Unreal_2_SS/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/07/05-15:56:14.974 3340 Recovering log #16
+2026/07/05-15:56:15.001 3340 Reusing old log D:/UNI/3_ANNO/UE_TESLA/ESAME_UNREAL_2/Esame_Unreal_2_SS/Saved/webcache_4430\Local Storage\leveldb/000016.log 
+2026/07/05-16:56:27.748 2cf0 Level-0 table #20: started
+2026/07/05-16:56:27.800 2cf0 Level-0 table #20: 73882 bytes OK
+2026/07/05-16:56:27.835 2cf0 Delete type=0 #16
+2026/07/05-16:56:27.856 2cf0 Compacting 4@0 + 1@1 files
+2026/07/05-16:56:27.908 2cf0 Generated table #21@0: 4 keys, 25408 bytes
+2026/07/05-16:56:27.908 2cf0 Compacted 4@0 + 1@1 files => 25408 bytes
+2026/07/05-16:56:27.936 2cf0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/07/05-16:56:27.936 2cf0 Delete type=2 #11
+2026/07/05-16:56:27.937 2cf0 Delete type=2 #13
+2026/07/05-16:56:27.937 2cf0 Delete type=2 #15
+2026/07/05-16:56:27.937 2cf0 Delete type=2 #17
+2026/07/05-16:56:27.937 2cf0 Delete type=2 #20
+2026/07/05-17:18:37.192 2d24 Level-0 table #23: started
+2026/07/05-17:18:37.235 2d24 Level-0 table #23: 81134 bytes OK
+2026/07/05-17:18:37.270 2d24 Delete type=0 #19
+2026/07/05-17:47:48.859 2d38 Level-0 table #25: started
+2026/07/05-17:47:48.926 2d38 Level-0 table #25: 84639 bytes OK
+2026/07/05-17:47:48.948 2d38 Delete type=0 #22
+2026/07/05-17:48:23.068 2d24 Level-0 table #27: started
+2026/07/05-17:48:23.118 2d24 Level-0 table #27: 88582 bytes OK
+2026/07/05-17:48:23.147 2d24 Delete type=0 #24
