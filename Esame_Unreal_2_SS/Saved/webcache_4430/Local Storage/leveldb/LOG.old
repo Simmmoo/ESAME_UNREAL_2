@@ -1,24 +1,57 @@
-2026/07/05-15:56:14.914 3340 Reusing MANIFEST D:/UNI/3_ANNO/UE_TESLA/ESAME_UNREAL_2/Esame_Unreal_2_SS/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/07/05-15:56:14.974 3340 Recovering log #16
-2026/07/05-15:56:15.001 3340 Reusing old log D:/UNI/3_ANNO/UE_TESLA/ESAME_UNREAL_2/Esame_Unreal_2_SS/Saved/webcache_4430\Local Storage\leveldb/000016.log 
-2026/07/05-16:56:27.748 2cf0 Level-0 table #20: started
-2026/07/05-16:56:27.800 2cf0 Level-0 table #20: 73882 bytes OK
-2026/07/05-16:56:27.835 2cf0 Delete type=0 #16
-2026/07/05-16:56:27.856 2cf0 Compacting 4@0 + 1@1 files
-2026/07/05-16:56:27.908 2cf0 Generated table #21@0: 4 keys, 25408 bytes
-2026/07/05-16:56:27.908 2cf0 Compacted 4@0 + 1@1 files => 25408 bytes
-2026/07/05-16:56:27.936 2cf0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/07/05-16:56:27.936 2cf0 Delete type=2 #11
-2026/07/05-16:56:27.937 2cf0 Delete type=2 #13
-2026/07/05-16:56:27.937 2cf0 Delete type=2 #15
-2026/07/05-16:56:27.937 2cf0 Delete type=2 #17
-2026/07/05-16:56:27.937 2cf0 Delete type=2 #20
-2026/07/05-17:18:37.192 2d24 Level-0 table #23: started
-2026/07/05-17:18:37.235 2d24 Level-0 table #23: 81134 bytes OK
-2026/07/05-17:18:37.270 2d24 Delete type=0 #19
-2026/07/05-17:47:48.859 2d38 Level-0 table #25: started
-2026/07/05-17:47:48.926 2d38 Level-0 table #25: 84639 bytes OK
-2026/07/05-17:47:48.948 2d38 Delete type=0 #22
-2026/07/05-17:48:23.068 2d24 Level-0 table #27: started
-2026/07/05-17:48:23.118 2d24 Level-0 table #27: 88582 bytes OK
-2026/07/05-17:48:23.147 2d24 Delete type=0 #24
+2026/07/06-18:27:28.282 2bec Reusing MANIFEST D:/UNI/3_ANNO/UE_TESLA/ESAME_UNREAL_2/Esame_Unreal_2_SS/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/07/06-18:27:28.358 2bec Recovering log #26
+2026/07/06-18:27:28.383 2bec Reusing old log D:/UNI/3_ANNO/UE_TESLA/ESAME_UNREAL_2/Esame_Unreal_2_SS/Saved/webcache_4430\Local Storage\leveldb/000026.log 
+2026/07/06-18:28:33.731 2bec Level-0 table #30: started
+2026/07/06-18:28:33.796 2bec Level-0 table #30: 90870 bytes OK
+2026/07/06-18:28:33.835 2bec Delete type=0 #26
+2026/07/06-18:28:33.836 2bec Compacting 4@0 + 1@1 files
+2026/07/06-18:28:33.876 2bec Generated table #31@0: 4 keys, 30768 bytes
+2026/07/06-18:28:33.876 2bec Compacted 4@0 + 1@1 files => 30768 bytes
+2026/07/06-18:28:33.899 2bec compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/07/06-18:28:33.900 2bec Delete type=2 #21
+2026/07/06-18:28:33.900 2bec Delete type=2 #23
+2026/07/06-18:28:33.900 2bec Delete type=2 #25
+2026/07/06-18:28:33.900 2bec Delete type=2 #27
+2026/07/06-18:28:33.900 2bec Delete type=2 #30
+2026/07/06-18:30:33.728 18c8 Level-0 table #33: started
+2026/07/06-18:30:33.781 18c8 Level-0 table #33: 64723 bytes OK
+2026/07/06-18:30:33.813 18c8 Delete type=0 #29
+2026/07/06-18:32:43.932 5474 Level-0 table #35: started
+2026/07/06-18:32:44.006 5474 Level-0 table #35: 67979 bytes OK
+2026/07/06-18:32:44.034 5474 Delete type=0 #32
+2026/07/06-18:34:33.725 4cdc Level-0 table #37: started
+2026/07/06-18:34:33.782 4cdc Level-0 table #37: 71651 bytes OK
+2026/07/06-18:34:33.814 4cdc Delete type=0 #34
+2026/07/06-20:04:29.723 3ca8 Level-0 table #39: started
+2026/07/06-20:04:29.836 3ca8 Level-0 table #39: 73363 bytes OK
+2026/07/06-20:04:29.862 3ca8 Delete type=0 #36
+2026/07/06-20:04:29.862 3ca8 Compacting 4@0 + 1@1 files
+2026/07/06-20:04:29.912 3ca8 Generated table #40@0: 4 keys, 36916 bytes
+2026/07/06-20:04:29.912 3ca8 Compacted 4@0 + 1@1 files => 36916 bytes
+2026/07/06-20:04:29.934 3ca8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/07/06-20:04:29.935 3ca8 Delete type=2 #31
+2026/07/06-20:04:29.935 3ca8 Delete type=2 #33
+2026/07/06-20:04:29.935 3ca8 Delete type=2 #35
+2026/07/06-20:04:29.935 3ca8 Delete type=2 #37
+2026/07/06-20:04:29.935 3ca8 Delete type=2 #39
+2026/07/06-20:05:07.246 4cdc Level-0 table #42: started
+2026/07/06-20:05:07.311 4cdc Level-0 table #42: 74326 bytes OK
+2026/07/06-20:05:07.340 4cdc Delete type=0 #38
+2026/07/06-20:05:31.264 3ca8 Level-0 table #44: started
+2026/07/06-20:05:31.305 3ca8 Level-0 table #44: 75067 bytes OK
+2026/07/06-20:05:31.337 3ca8 Delete type=0 #41
+2026/07/06-20:05:49.534 4cdc Level-0 table #46: started
+2026/07/06-20:05:49.569 4cdc Level-0 table #46: 75319 bytes OK
+2026/07/06-20:05:49.602 4cdc Delete type=0 #43
+2026/07/06-20:14:38.442 204 Level-0 table #48: started
+2026/07/06-20:14:38.501 204 Level-0 table #48: 75455 bytes OK
+2026/07/06-20:14:38.534 204 Delete type=0 #45
+2026/07/06-20:14:38.534 204 Compacting 4@0 + 1@1 files
+2026/07/06-20:14:38.559 204 Generated table #49@0: 4 keys, 37948 bytes
+2026/07/06-20:14:38.559 204 Compacted 4@0 + 1@1 files => 37948 bytes
+2026/07/06-20:14:38.591 204 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/07/06-20:14:38.592 204 Delete type=2 #40
+2026/07/06-20:14:38.592 204 Delete type=2 #42
+2026/07/06-20:14:38.592 204 Delete type=2 #44
+2026/07/06-20:14:38.592 204 Delete type=2 #46
+2026/07/06-20:14:38.592 204 Delete type=2 #48
